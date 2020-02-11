@@ -1,3 +1,5 @@
+Will update with all the correct scripts.
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
